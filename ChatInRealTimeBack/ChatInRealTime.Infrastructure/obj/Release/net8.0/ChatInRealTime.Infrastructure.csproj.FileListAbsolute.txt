@@ -1,0 +1,15 @@
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\bin\Release\net8.0\ChatInRealTime.Infrastructure.deps.json
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\bin\Release\net8.0\ChatInRealTime.Infrastructure.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\bin\Release\net8.0\ChatInRealTime.Infrastructure.pdb
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\bin\Release\net8.0\ChatInRealTime.Core.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\bin\Release\net8.0\ChatInRealTime.Core.pdb
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.AssemblyInfo.cs
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRe.ACA04665.Up2Date
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\refint\ChatInRealTime.Infrastructure.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ChatInRealTime.Infrastructure.pdb
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Infrastructure\obj\Release\net8.0\ref\ChatInRealTime.Infrastructure.dll

@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\helpers\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\helpers\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\chatinrealtime.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\chatinrealtime.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\message\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\message\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\entites\\appmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\entites\\appmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\mapper\\automappermessageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\mapper\\automappermessageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\users\\signupuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\users\\signupuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\serverresponses\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\serverresponses\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\migrations\\20251117172554_deleteforeingkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\migrations\\20251117172554_deleteforeingkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\entites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\entites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\entites\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\entites\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\mapper\\automapperuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\mapper\\automapperuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\specififcation\\messagespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\specififcation\\messagespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\specififcation\\userspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\specififcation\\userspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\specififcation\\tokenspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\specififcation\\tokenspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\specififcation\\rolespesification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\specififcation\\rolespesification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\users\\signinuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\users\\signinuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\serverresponses\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\serverresponses\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{821E3609-7609-491B-BB6F-2A20A59E4EC1}|ChatInRealTime.Api\\ChatInRealTime.Api.csproj|solutionrelative:chatinrealtime.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\validation\\user\\signupuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\validation\\user\\signupuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\validation\\user\\signinuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\validation\\user\\signinuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\migrations\\20251113101702_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\migrations\\20251113101702_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\migrations\\20251113101702_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\migrations\\20251113101702_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\chatinrealtime.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\chatinrealtime.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.infrastructure\\chatinrealtime.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CBD44BD-CA08-4706-85A5-CC2261951344}|ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj|solutionrelative:chatinrealtime.infrastructure\\chatinrealtime.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\dtos\\token\\tokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\dtos\\token\\tokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|c:\\users\\sayron\\desktop\\chatinrealtimeback\\chatinrealtime.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908A9B2D-C3A6-435F-82F0-40E32FB50CAD}|ChatInRealTime.Core\\ChatInRealTime.Core.csproj|solutionrelative:chatinrealtime.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatInRealTime.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\ChatInRealTime.Api.csproj",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\ChatInRealTime.Api.csproj",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\ChatInRealTime.Api.csproj",
+              "RelativeToolTip": "ChatInRealTime.Api\\ChatInRealTime.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T13:36:42.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\appsettings.json",
+              "RelativeToolTip": "ChatInRealTime.Api\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T11:19:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Message\\MessageDto.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\Message\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Message\\MessageDto.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\Message\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:45:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAhwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:06:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\ServiceExtensions.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:52:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Program.cs",
+              "RelativeToolTip": "ChatInRealTime.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:53:45.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Helpers\\SeedData.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\Helpers\\SeedData.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Helpers\\SeedData.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\Helpers\\SeedData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:55:38.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\ServiceExtensions.cs",
+              "RelativeToolTip": "ChatInRealTime.Api\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:38:50.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:08:31.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatInRealTime.Api\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:37:36.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperMessageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Mapper\\AutoMapperMessageProfile.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Mapper\\AutoMapperMessageProfile.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Mapper\\AutoMapperMessageProfile.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Mapper\\AutoMapperMessageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:49:42.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppMessage.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Entites\\AppMessage.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Entites\\AppMessage.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Entites\\AppMessage.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Entites\\AppMessage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:46:21.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\ChatService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Services\\ChatService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:43:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Users\\SignUpUserDto.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\Users\\SignUpUserDto.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Users\\SignUpUserDto.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\Users\\SignUpUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:57:40.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\ServerResponses\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\ServerResponses\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\ServerResponses\\AuthResponse.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\ServerResponses\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:38:09.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatInRealTime.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:53:36.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Entites\\AppUser.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Entites\\AppUser.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Entites\\AppUser.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Entites\\AppUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:00:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251117172554_deleteForeingKey.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Migrations\\20251117172554_deleteForeingKey.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\Migrations\\20251117172554_deleteForeingKey.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Migrations\\20251117172554_deleteForeingKey.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\Migrations\\20251117172554_deleteForeingKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:25:54.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Entites\\AppRole.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Entites\\AppRole.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Entites\\AppRole.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Entites\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:44:18.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapperUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Mapper\\AutoMapperUserProfile.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Mapper\\AutoMapperUserProfile.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Mapper\\AutoMapperUserProfile.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Mapper\\AutoMapperUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:49:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\ServiceExtensions.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:52:14.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TokenSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\TokenSpecification.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Specififcation\\TokenSpecification.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\TokenSpecification.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Specififcation\\TokenSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:01:17.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Services\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:57:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\UserSpecification.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Specififcation\\UserSpecification.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\UserSpecification.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Specififcation\\UserSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:25:45.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IChatService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:44:00.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MessageSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\MessageSpecification.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Specififcation\\MessageSpecification.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\MessageSpecification.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Specififcation\\MessageSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:57:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleSpesification.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\RoleSpesification.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Specififcation\\RoleSpesification.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Specififcation\\RoleSpesification.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Specififcation\\RoleSpesification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:59:32.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:35:11.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\JwtService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Services\\JwtService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwGcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:35:21.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Services\\RoleService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:43:42.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\ServerResponses\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\ServerResponses\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\ServerResponses\\ServiceResponse.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\ServerResponses\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:37:53.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignInUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Users\\SignInUserDto.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\Users\\SignInUserDto.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Users\\SignInUserDto.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\Users\\SignInUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:59:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SignUpUserValidation.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Validation\\User\\SignUpUserValidation.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Validation\\User\\SignUpUserValidation.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Validation\\User\\SignUpUserValidation.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Validation\\User\\SignUpUserValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:28:44.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SignInUserValidation.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Validation\\User\\SignInUserValidation.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Validation\\User\\SignInUserValidation.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Validation\\User\\SignInUserValidation.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Validation\\User\\SignInUserValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:45:42.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatInRealTime.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatInRealTime.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T10:52:19.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251113101702_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Migrations\\20251113101702_init.Designer.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\Migrations\\20251113101702_init.Designer.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Migrations\\20251113101702_init.Designer.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\Migrations\\20251113101702_init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:42:36.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:36:00.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:56:29.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251113101702_Init.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Migrations\\20251113101702_Init.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\Migrations\\20251113101702_Init.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\Migrations\\20251113101702_Init.cs",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\Migrations\\20251113101702_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:17:03.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Users\\UserDto.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:04:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChatInRealTime.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\ChatInRealTime.Core.csproj",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\ChatInRealTime.Core.csproj",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\ChatInRealTime.Core.csproj",
+              "RelativeToolTip": "ChatInRealTime.Core\\ChatInRealTime.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T10:11:17.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChatInRealTime.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj",
+              "RelativeToolTip": "ChatInRealTime.Infrastructure\\ChatInRealTime.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T10:11:25.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:35:35.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:43:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TokensDto.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Token\\TokensDto.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Dtos\\Token\\TokensDto.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Dtos\\Token\\TokensDto.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Dtos\\Token\\TokensDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:36:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:04:01.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "ChatInRealTime.Core\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\sayron\\Desktop\\ChatInRealTimeBack\\ChatInRealTime.Core\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "ChatInRealTime.Core\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:00:47.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

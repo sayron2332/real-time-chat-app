@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Реєстрація - Чат</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/auth.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-5">
+                <div class="auth-card p-4 p-md-5">
+                    <div class="text-center mb-4">
+                        <h2 class="fw-bold text-primary">Реєстрація</h2>
+                        <p class="text-muted">Створіть свій акаунт для чату</p>
+                    </div>
+
+                    <form id="registerForm">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="regName" class="form-label">Ім'я *</label>
+                                <input type="text" class="form-control" id="regName" required>
+                                <div class="error-message" id="regNameError"></div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="regSurname" class="form-label">Прізвище *</label>
+                                <input type="text" class="form-control" id="regSurname" required>
+                                <div class="error-message" id="regSurnameError"></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="regEmail" class="form-label">Email *</label>
+                            <input type="email" class="form-control" id="regEmail" required>
+                            <div class="error-message" id="regEmailError"></div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="regPassword" class="form-label">Пароль *</label>
+                            <input type="password" class="form-control" id="regPassword" required>
+                            <div class="error-message" id="regPasswordError"></div>
+                        </div>
+
+                        <div class="mb-4">
+                            <label for="regConfirmPassword" class="form-label">Підтвердіть пароль *</label>
+                            <input type="password" class="form-control" id="regConfirmPassword" required>
+                            <div class="error-message" id="regConfirmPasswordError"></div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100 py-2 mb-3">
+                            Зареєструватися
+                        </button>
+
+                        <div class="text-center">
+                            <p class="mb-0">Вже є акаунт?
+                                <a href="login.html" class="text-decoration-none">Увійти</a>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/auth.js"></script>
+</body>
+
+</html>

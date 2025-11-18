@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.auth-card {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(46, 125, 50, 0.1);
+    border: 1px solid #c8e6c9;
+}
+
+.text-primary {
+    color: #2e7d32 !important;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #4caf50 0%, #388e3c 100%);
+    border: none;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #388e3c 0%, #2e7d32 100%);
+}
+
+.form-control:focus {
+    border-color: #4caf50;
+    box-shadow: 0 0 0 0.2rem rgba(76, 175, 80, 0.25);
+}
+
+.error-message {
+    color: #d32f2f;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    display: none;
+}
+
+.is-invalid {
+    border-color: #d32f2f;
+}

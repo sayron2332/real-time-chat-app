@@ -1,0 +1,126 @@
+.chat-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%);
+}
+
+
+.navbar.bg-primary {
+    background: linear-gradient(135deg, #2e7d32 0%, #1b5e20 100%) !important;
+}
+
+/* Контейнер повідомлень */
+.messages-container {
+    flex: 1;
+    overflow-y: auto;
+    background: #f1f8e9;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+   
+}
+
+
+.message {
+    padding: 12px 16px;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+
+
+.message.own {
+    background: linear-gradient(135deg, #4caf50 0%, #388e3c 100%);
+    color: white;
+    margin-left: auto;
+    border-radius: 18px 18px 4px 18px;
+    margin-right: 0;
+    
+}
+
+
+.message.other {
+    background: linear-gradient(135deg, #ffffff 0%, #e8f5e9 100%);
+    border: 1px solid #c8e6c9;
+    margin-right: auto;
+    border-radius: 18px 18px 18px 4px;
+    margin-left: 0;
+    
+}
+
+
+.system-message {
+    text-align: center;
+    color: #689f38;
+    font-style: italic;
+    margin: 8px 0;
+    padding: 8px;
+    background: rgba(200, 230, 201, 0.5);
+    border-radius: 10px;
+}
+
+
+.border-top.bg-white {
+    background: #f1f8e9 !important;
+    border-top: 1px solid #c8e6c9 !important;
+    padding: 15px;
+}
+
+
+.btn-primary {
+    background: linear-gradient(135deg, #4caf50 0%, #388e3c 100%);
+    border: none;
+    border-radius: 0 8px 8px 0;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #388e3c 0%, #2e7d32 100%);
+}
+
+
+.btn-outline-light {
+    color: #e8f5e9;
+    border-color: #e8f5e9;
+}
+
+.btn-outline-light:hover {
+    background: #e8f5e9;
+    color: #2e7d32;
+}
+
+
+.form-control {
+    border: 1px solid #c8e6c9;
+    border-radius: 8px 0 0 8px;
+    padding: 10px 15px;
+}
+
+.form-control:focus {
+    border-color: #4caf50;
+    box-shadow: 0 0 0 0.2rem rgba(76, 175, 80, 0.25);
+}
+
+.message .fw-bold {
+    font-size: 0.85rem;
+    margin-bottom: 4px;
+}
+
+.message .small {
+    font-size: 0.75rem;
+    opacity: 0.9;
+}
+
+
+.messages-container {
+    scroll-behavior: smooth;
+}
+
+
+.message {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.message.own {
+    box-shadow: 0 2px 6px rgba(46, 125, 50, 0.3);
+}

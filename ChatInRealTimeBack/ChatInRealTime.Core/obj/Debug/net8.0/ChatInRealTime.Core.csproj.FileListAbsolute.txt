@@ -1,0 +1,12 @@
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.csproj.AssemblyReference.cache
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.AssemblyInfoInputs.cache
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.AssemblyInfo.cs
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.csproj.CoreCompileInputs.cache
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\bin\Debug\net8.0\ChatInRealTime.Core.deps.json
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\bin\Debug\net8.0\ChatInRealTime.Core.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\bin\Debug\net8.0\ChatInRealTime.Core.pdb
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\refint\ChatInRealTime.Core.dll
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ChatInRealTime.Core.pdb
+C:\Users\sayron\Desktop\ChatInRealTimeBack\ChatInRealTime.Core\obj\Debug\net8.0\ref\ChatInRealTime.Core.dll
